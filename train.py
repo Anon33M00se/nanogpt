@@ -8,6 +8,10 @@
 #
 #    https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
 #
+#    You probably want a M-x run-python
+#
+#    And you may well need a M-x pyvenv-activate before you do that
+#
 
 with open('input.txt', 'r', encoding='utf8') as f:
     text = f.read()
