@@ -1,0 +1,15 @@
+#+TITLE: NanoGPT
+#+AUTHOR: AnoneeM00se
+#+CREATED: 2025-05-09
+
+* NanoGPT
+
+This is just a spot to share between stages/machines as I work my way through:
+
+https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+https://github.com/karpathy/ng-video-lecture
+
+
+
+
